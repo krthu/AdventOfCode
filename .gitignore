@@ -1,0 +1,48 @@
+# ----------------------------------------
+# macOS system files
+# ----------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# macOS metadata
+*.icloud
+*.ICNS
+
+# ----------------------------------------
+# Xcode & Swift
+# ----------------------------------------
+# Build artifacts
+build/
+DerivedData/
+
+# User-specific Xcode settings
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Xcode workspace
+xcworkspace/
+
+# Playground artifacts
+timeline.xctimeline
+playground.xcworkspace
+
+# ----------------------------------------
+# Other common ignores
+# ----------------------------------------
+*.swp
+*.lock
+*.tmp
